@@ -1,5 +1,11 @@
+import AuthPage from './pages/authPage/AuthPage';
+
 function App() {
-	return <h1>Hello, World!</h1>;
+	return (
+		<div className="App">
+			<AuthPage />
+		</div>
+	);
 }
 
 export default App;

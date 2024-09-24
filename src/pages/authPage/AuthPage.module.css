@@ -1,0 +1,12 @@
+.auth {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-self: center;
+	gap: 50px;
+
+	padding: 40px 30px;
+	margin: auto 0;
+
+	background-color: #f4f4f4;
+}
